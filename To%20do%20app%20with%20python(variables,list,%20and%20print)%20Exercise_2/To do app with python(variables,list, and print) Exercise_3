@@ -1,0 +1,11 @@
+#Coding Exercise 3
+Create a list of four strings and associate the list with a variable named my_variable.
+
+todo1 = "Mango"
+todo2 = "Orange"
+todo3 = "Apple"
+todo4 = "pineapple"
+
+my_variable = [todo1, todo2, todo3, todo4]
+
+print(my_variable)
